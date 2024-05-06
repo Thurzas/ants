@@ -1,6 +1,6 @@
 <h1>Ant colony Simulation</h1>
 
-<p>done on Processing, but it's not in a state to reuse.</p>
+<p>done with java Processing, but it's not in a state to reuse.</p>
 
 <h2>what can I expect from this repository :</h2>
 
